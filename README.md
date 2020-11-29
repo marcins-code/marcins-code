@@ -1,8 +1,4 @@
 # Hi there 👋
-
-<!--
-**marcins-code/marcins-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 <span style="color:blue">some *This is Blue italic.* text</span>
 - 🔭 I’m currently working on ...
